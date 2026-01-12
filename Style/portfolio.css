@@ -25,6 +25,7 @@
     color: white;
     cursor: pointer;
     
+    
 }
 .section-heading{
     max-width: 827px;
@@ -174,4 +175,7 @@ nav .menu a{
 #resume .resume-container .line{
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.text-aline{
+    text-align: center;
 }
