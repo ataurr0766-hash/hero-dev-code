@@ -179,3 +179,26 @@ nav .menu a{
 .text-aline{
     text-align: center;
 }
+footer #footer{
+    display: flex;
+    padding: 130px;
+    gap: 40px;
+    width: 71%;
+    max-width: 1140;
+    background-color: #FFF8F3;
+    margin: 0 auto;
+    
+}
+#footer .footer-header {
+    margin-bottom: 30px;
+}
+#footer .form-header{
+    margin-bottom: 30px;
+}
+#footer .footer-text{
+    margin-bottom: 20px;
+}
+#footer .input [input="text"] {
+    width: 461px;
+
+}
